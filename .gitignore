@@ -1,0 +1,17 @@
+# mac
+.DS_Store
+
+# course readings / notes
+documents/
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# r
+.Rhistory
+.RData
+.Rproj.user/
+
+# vscode
+.vscode/
